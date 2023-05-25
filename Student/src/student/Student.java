@@ -18,6 +18,7 @@ public class Student {
         private String name;
         private String studentID;
         private String address;
+        private String name;
         
         Student [] students = new Student [30];
         // TODO code application logic here
