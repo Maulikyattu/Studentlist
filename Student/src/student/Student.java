@@ -15,7 +15,7 @@ public class Student {
      */
     public static void main(String[] args) {
         
-        Student [] students = new Student [3];
+        Student [] students = new Student [30];
         // TODO code application logic here
     }
     
