@@ -14,14 +14,12 @@ public class Student {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+                // TODO code application logic here
+        String name = "Maulik";
         
-        private String name;
-        private String studentID;
-        private String address;
-        private String name;
+        System.out.println(name + "My name is: "+name);
         
-        Student [] students = new Student [30];
-        // TODO code application logic here
+        
     }
     
 }
