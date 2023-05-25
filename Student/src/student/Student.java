@@ -16,8 +16,9 @@ public class Student {
     public static void main(String[] args) {
                 // TODO code application logic here
         String name = "Maulik";
+        String msg = "Hello";
         
-        System.out.println(name + "My name is: "+name);
+        System.out.println(msg + "My name is: "+name);
         
         
     }
