@@ -15,6 +15,10 @@ public class Student {
      */
     public static void main(String[] args) {
         
+        private String name;
+        private String studentID;
+        private String address;
+        
         Student [] students = new Student [30];
         // TODO code application logic here
     }
